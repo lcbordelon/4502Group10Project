@@ -37,6 +37,7 @@ SYMPTOMS/FEATURES?
 https://github.com/lcbordelon/4502Group10Project/
 
 ### Link to the video demonstration
+
 ### Link to your final project paper
 
 
