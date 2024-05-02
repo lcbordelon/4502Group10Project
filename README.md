@@ -33,11 +33,17 @@ SYMPTOMS/FEATURES?
 ### Application of this Knowledge
 - This data mining project seeks to address critical questions regarding Heart Disease, given its profound impact on public health. By understanding the geographical distribution of Heart Disease prevalence, the influence of physical activity, correlated features, prevalent symptoms, and demographic predispositions, targeted interventions and preventive measures can be developed to mitigate its burden and enhance public health outcomes.
 
-### All source code in github ADD THE LINK TO THE FINAL PROJECT IN THE REPO
+### All source code in github
 https://github.com/lcbordelon/4502Group10Project/
 
 ### Link to the video demonstration
+https://github.com/lcbordelon/4502Group10Project/blob/main/10_DataMiningIndicatorsofHeartDisease_Part6_Video.mp4
 
 ### Link to your final project paper
+https://github.com/lcbordelon/4502Group10Project/blob/main/Group10_DataMiningIndicatorsOfHeartDisease_Part4.pdf
+
+### Link to your final project code
+https://github.com/lcbordelon/4502Group10Project/blob/main/Group10_DataMiningIndicatorsofHeartDisease_Part5.ipynb
+
 
 
